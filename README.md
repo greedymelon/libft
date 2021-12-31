@@ -1,0 +1,2 @@
+# libft
+codam school project
