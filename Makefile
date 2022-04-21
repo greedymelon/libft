@@ -66,7 +66,7 @@ all : ${NAME}
 ${NAME} : ${OBJ} 
 	ar -crs ${NAME} ${OBJ}
 
-re:	fclean all
+re :	fclean all
 
 clean :
 	${RM} ${OBJECTS} ${OBJECTS_BONUS}
